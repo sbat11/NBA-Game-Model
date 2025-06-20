@@ -22,7 +22,6 @@ This project is a machine learning model that predicts the winner of an NBA game
 - **Pandas / NumPy** for data processing
 - **Scikit-learn** for modeling
 - **Matplotlib / Seaborn** for visualization
-- Optional: XGBoost, LightGBM, or TensorFlow for advanced modeling
 
 ---
 
